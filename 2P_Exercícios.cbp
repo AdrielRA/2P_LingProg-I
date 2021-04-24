@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="2P_Exercícios" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/2P_Exercícios" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/2P_Exercícios" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="2P_MENU_Execucao.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="2P_ex000_olamundo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="2P_ex001_declaracaovariaveis.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="2P_ex002_pitagoras.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="2P_ex003_batimentocardiaco.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="2P_ex004_entradaesaida.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="2P_ex005_conversotemperatura.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="2P_ex006_mediaidade.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="2P_ex007_consumoveiculo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="2P_ex008_condicionais.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="2P_ex009_mediaponderada.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="2P_ex010_mostramaiornúmero.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="2P_ex011_parouímpar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="2P_ex012_menusimples.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

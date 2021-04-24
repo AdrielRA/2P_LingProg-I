@@ -1,0 +1,207 @@
+# depslib dependency file v1.0
+1533750754 source:c:\users\adrie\documents\mega\mega\ciência da computação\2º período\linguagens e téc de programação i\exercícios\2p_ex000_olamundo.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<locale.h>
+	<conio2.h>
+
+1533751095 source:c:\users\adrie\documents\mega\mega\ciência da computação\2º período\linguagens e téc de programação i\exercícios\2p_ex001_declaracaovariaveis.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<locale.h>
+	<conio2.h>
+
+1533899186 source:c:\users\adrie\documents\mega\mega\ciência da computação\2º período\linguagens e téc de programação i\exercícios\2p_ex002_pitagoras.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<locale.h>
+	<conio2.h>
+
+1533899336 source:c:\users\adrie\documents\mega\mega\ciência da computação\2º período\linguagens e téc de programação i\exercícios\2p_ex003_batimentocardiaco.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<locale.h>
+	<conio2.h>
+
+1534457486 source:c:\users\adrie\documents\mega\mega\ciência da computação\2º período\linguagens e téc de programação i\exercícios\2p_menu_execucao.c
+	<stdlib.h>
+	<conio2.h>
+	<stdio.h>
+	<stdbool.h>
+	<locale.h>
+	<windows.h>
+
+1533900496 source:c:\users\adrie\documents\mega\mega\ciência da computação\2º período\linguagens e téc de programação i\exercícios\2p_ex004_entradaesaida.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<locale.h>
+	<conio2.h>
+
+1533750754 source:c:\users\usuario\documents\mega\mega\ciência da computação\2º período\linguagens e téc de programação i\exercícios\2p_ex000_olamundo.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<locale.h>
+	<conio2.h>
+
+1533751095 source:c:\users\usuario\documents\mega\mega\ciência da computação\2º período\linguagens e téc de programação i\exercícios\2p_ex001_declaracaovariaveis.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<locale.h>
+	<conio2.h>
+
+1533899186 source:c:\users\usuario\documents\mega\mega\ciência da computação\2º período\linguagens e téc de programação i\exercícios\2p_ex002_pitagoras.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<locale.h>
+	<conio2.h>
+
+1533899336 source:c:\users\usuario\documents\mega\mega\ciência da computação\2º período\linguagens e téc de programação i\exercícios\2p_ex003_batimentocardiaco.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<locale.h>
+	<conio2.h>
+
+1533900496 source:c:\users\usuario\documents\mega\mega\ciência da computação\2º período\linguagens e téc de programação i\exercícios\2p_ex004_entradaesaida.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<locale.h>
+	<conio2.h>
+
+1533857251 source:c:\users\usuario\documents\mega\mega\ciência da computação\2º período\linguagens e téc de programação i\exercícios\2p_menu_execucao.c
+	<stdlib.h>
+	<conio2.h>
+	<stdio.h>
+	<stdbool.h>
+	<locale.h>
+	<windows.h>
+
+1533900715 source:c:\users\usuario\documents\mega\mega\ciência da computação\2º período\linguagens e téc de programação i\exercícios\2p_ex005_conversotemperatura.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<locale.h>
+	<conio2.h>
+
+1533900715 source:c:\users\adrie\documents\mega\mega\ciência da computação\2º período\linguagens e téc de programação i\exercícios\2p_ex005_conversotemperatura.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<locale.h>
+	<conio2.h>
+
+1534287534 source:c:\users\adrie\documents\mega\mega\ciência da computação\2º período\linguagens e téc de programação i\exercícios\2p_ex006_mediaidade.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<locale.h>
+	<conio2.h>
+
+1534289465 source:c:\users\adrie\documents\mega\mega\ciência da computação\2º período\linguagens e téc de programação i\exercícios\2p_ex007_consumoveiculo.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<locale.h>
+	<conio2.h>
+
+1534459824 source:c:\users\adrie\documents\mega\mega\ciência da computação\2º período\linguagens e téc de programação i\exercícios\2p_ex008_condicionais.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<locale.h>
+	<conio2.h>
+	<math.h>
+
+1534876323 source:c:\users\adrie\documents\megasync\mega\ciência da computação\2º período\linguagens e téc de programação i\exercícios\2p_ex000_olamundo.c
+	<stdlib.h>
+	<stdio.h>
+	<conio2.h>
+
+1534876681 source:c:\users\adrie\documents\megasync\mega\ciência da computação\2º período\linguagens e téc de programação i\exercícios\2p_ex001_declaracaovariaveis.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<locale.h>
+	<conio2.h>
+
+1534876708 source:c:\users\adrie\documents\megasync\mega\ciência da computação\2º período\linguagens e téc de programação i\exercícios\2p_ex002_pitagoras.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<conio2.h>
+
+1534876719 source:c:\users\adrie\documents\megasync\mega\ciência da computação\2º período\linguagens e téc de programação i\exercícios\2p_ex003_batimentocardiaco.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<conio2.h>
+
+1534876775 source:c:\users\adrie\documents\megasync\mega\ciência da computação\2º período\linguagens e téc de programação i\exercícios\2p_ex004_entradaesaida.c
+	<stdlib.h>
+	<stdio.h>
+	<conio2.h>
+
+1534876791 source:c:\users\adrie\documents\megasync\mega\ciência da computação\2º período\linguagens e téc de programação i\exercícios\2p_ex005_conversotemperatura.c
+	<stdlib.h>
+	<stdio.h>
+	<conio2.h>
+
+1534876813 source:c:\users\adrie\documents\megasync\mega\ciência da computação\2º período\linguagens e téc de programação i\exercícios\2p_ex006_mediaidade.c
+	<stdlib.h>
+	<stdio.h>
+	<conio2.h>
+
+1534876944 source:c:\users\adrie\documents\megasync\mega\ciência da computação\2º período\linguagens e téc de programação i\exercícios\2p_ex007_consumoveiculo.c
+	<stdlib.h>
+	<stdio.h>
+	<conio2.h>
+
+1534876859 source:c:\users\adrie\documents\megasync\mega\ciência da computação\2º período\linguagens e téc de programação i\exercícios\2p_ex008_condicionais.c
+	<stdbool.h>
+	<stdlib.h>
+	<conio2.h>
+	<stdio.h>
+	<math.h>
+
+1534876888 source:c:\users\adrie\documents\megasync\mega\ciência da computação\2º período\linguagens e téc de programação i\exercícios\2p_ex009_mediaponderada.c
+	<stdbool.h>
+	<conio2.h>
+	<stdlib.h>
+	<stdio.h>
+
+1534876904 source:c:\users\adrie\documents\megasync\mega\ciência da computação\2º período\linguagens e téc de programação i\exercícios\2p_ex010_mostramaiornúmero.c
+	<stdbool.h>
+	<stdlib.h>
+	<conio2.h>
+	<stdio.h>
+
+1534876935 source:c:\users\adrie\documents\megasync\mega\ciência da computação\2º período\linguagens e téc de programação i\exercícios\2p_ex011_parouímpar.c
+	<stdbool.h>
+	<stdlib.h>
+	<conio2.h>
+	<stdio.h>
+
+1534876265 source:c:\users\adrie\documents\megasync\mega\ciência da computação\2º período\linguagens e téc de programação i\exercícios\2p_menu_execucao.c
+	<stdlib.h>
+	<conio2.h>
+	<stdio.h>
+	<stdbool.h>
+	<locale.h>
+	<windows.h>
+
+1534876371 source:c:\users\adrie\documents\megasync\mega\ciência da computação\2º período\linguagens e téc de programação i\exercícios\2p_ex012_menusimples.c
+	<stdlib.h>
+	<conio2.h>
+	<stdio.h>
+	<stdbool.h>
+	<math.h>
+
